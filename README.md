@@ -4,6 +4,8 @@
 - configured tailwind in project
 - Header
 - Login From
+- Sing up form
+
 
 
 
