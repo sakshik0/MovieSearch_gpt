@@ -3,8 +3,10 @@
 - create-react-app 
 - configured tailwind in project
 - Header
+- Routing of app
 - Login From
 - Sing up form
+- form validation (useRef hook)
 
 
 
