@@ -7,6 +7,9 @@
 - Login From
 - Sing up form
 - form validation (useRef hook)
+- firebase setup
+- deploy
+
 
 
 
