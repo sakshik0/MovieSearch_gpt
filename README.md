@@ -9,6 +9,12 @@
 - form validation (useRef hook)
 - firebase setup
 - deploy
+-implemented sign in / sign up
+- created redux store
+- Bugfix- If user is not logged in it can't access browse page
+- Add hardcoded values to the constants files
+-Register for tmdb api and create app and get access token
+- get nowplaying api
 
 
 
