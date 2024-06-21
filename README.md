@@ -16,7 +16,7 @@
 -Register for tmdb api and create app and get access token
 - get nowplaying api
 - custom hook for now playing movies and slice for trailer
-
+- Gpt search Features
 
 
 
