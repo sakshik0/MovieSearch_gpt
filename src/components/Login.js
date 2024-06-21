@@ -29,7 +29,7 @@ const Login = () => {
     const message = checkValidData(email.current.value, password.current.value);
     setErrorMessage(message);
 
-    console.log(name.current ? name.current.value : "No name");
+   // console.log(name.current ? name.current.value : "No name");
 
     if (message) return;
 
@@ -43,7 +43,7 @@ const Login = () => {
         .then((userCredential) => {
           // Signed up
           const user = userCredential.user;
-          console.log(user);
+         // console.log(user);
           updateProfile(user, {
             displayName: name.current.value,
             photoURL:USER_AVATAR,
