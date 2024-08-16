@@ -36,6 +36,6 @@
       - movie Suggestions
          - MoviesLists * N 
 
-- NetflixGpt
+- GPT Page
   - search Bar
   - Movie Suggestions
