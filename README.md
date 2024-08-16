@@ -1,4 +1,4 @@
-# netflix-gpt process
+# MovieSearch-gpt process
 
 - create-react-app 
 - configured tailwind in project
